@@ -70,7 +70,7 @@ body {
 .form-group button {
     width: 100%;
     padding: 1vw;
-    background-color: #28a745;
+    background-color: #005CC8;
     color: white;
     border: none;
     border-radius: 4px;
@@ -78,5 +78,5 @@ body {
 }
 
 .form-group button:hover {
-    background-color: #218838;
+    background-color: #0f6dd9;
 }
